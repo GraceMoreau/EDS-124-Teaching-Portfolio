@@ -1,3 +1,5 @@
 # EDS-124-Teaching-Portfolio
 
-https://youtu.be/jXCajgQFFn0
+### Show What You Know: Program Explanation
+Follow the link [here](https://youtu.be/jXCajgQFFn0) to view Snap! WP Sequencing Explanation Video
+
