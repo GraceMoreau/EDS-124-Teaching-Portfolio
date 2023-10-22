@@ -17,4 +17,7 @@
 ## Week 3
  * ### Show What You Know: Write and Explain A Program
    *   Follow the link [here](https://youtu.be/Bma8anmiLB4) to view Snap! WP Nested Repeats Video for Week 3
+  
+ * ### Show What You Know: Write and Explain A Program
+   *   Follow the link [here](https://youtu.be/AAHq8ht-1vs) to view Snap! WP Events Video for Week 3
 
