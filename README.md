@@ -20,4 +20,8 @@
   
  * ### Show What You Know: Write and Explain A Program
    *   Follow the link [here](https://youtu.be/AAHq8ht-1vs) to view Snap! WP Events Video for Week 3
+  
+## Week 4
+ * ### Show What You Know: Write and Explain A Program
+   *  Follow the link [here](https://youtu.be/Wqu5VGKGX-0) to view Snap! WP Variables Video for Week 4 
 
