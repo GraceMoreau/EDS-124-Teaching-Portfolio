@@ -23,5 +23,9 @@
   
 ## Week 4
  * ### Show What You Know: Write and Explain A Program
-   *  Follow the link [here](https://youtu.be/Wqu5VGKGX-0) to view Snap! WP Variables Video for Week 4 
+   *  Follow the link [here](https://youtu.be/Wqu5VGKGX-0) to view Snap! WP Variables Video for Week 4
+
+## Week 5
+ * ### Show What You Know: Write and Explain A Program
+   *  Follow the link [here](https://youtu.be/XL27RtjN_sY) to view Snap! WP Conditional Loops Video for Week 5 
 
