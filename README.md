@@ -27,5 +27,9 @@
 
 ## Week 5
  * ### Show What You Know: Write and Explain A Program
-   *  Follow the link [here](https://youtu.be/XL27RtjN_sY) to view Snap! WP Conditional Loops Video for Week 5 
+   *  Follow the link [here](https://youtu.be/XL27RtjN_sY) to view Snap! WP Conditional Loops Video for Week 5
+
+## Week 6
+ * ### Show What You Know: Write and Explain A Program
+   *  Follow the link [here](https://youtu.be/_SQUu8W2ZxY) to view Snap! WP If Else Video for Week 6
 
