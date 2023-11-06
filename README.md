@@ -32,4 +32,9 @@
 ## Week 6
  * ### Show What You Know: Write and Explain A Program
    *  Follow the link [here](https://youtu.be/_SQUu8W2ZxY) to view Snap! WP If Else Video for Week 6
+  
+## Week 7
+ * ### Show What You Know: Write and Explain A Program
+   *  Follow the link [here](https://youtu.be/MALGH7XJBsk) to view Snap! WP Nested If Else Video for Week 7
+   
 
