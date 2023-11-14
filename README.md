@@ -36,5 +36,8 @@
 ## Week 7
  * ### Show What You Know: Write and Explain A Program
    *  Follow the link [here](https://youtu.be/MALGH7XJBsk) to view Snap! WP Nested If Else Video for Week 7
-   
+
+## Week 8
+  * ### Show What You Know: Write and Explain A Program
+    * Follow the link [here](https://youtu.be/z-Kgn4yzaiY) to view Snap! WP Compound Conditionals Video for Week 8
 
