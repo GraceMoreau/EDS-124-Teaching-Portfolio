@@ -41,3 +41,7 @@
   * ### Show What You Know: Write and Explain A Program
     * Follow the link [here](https://youtu.be/z-Kgn4yzaiY) to view Snap! WP Compound Conditionals Video for Week 8
 
+## Week 9
+  * ### Show What You Know: Write and Explain A Program
+    * Follow the link [here](https://youtu.be/pHaKqM9mzMc) to view Snap! WP Code Block Video for Week 9
+
