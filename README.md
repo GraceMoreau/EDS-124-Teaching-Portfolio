@@ -44,4 +44,8 @@
 ## Week 9
   * ### Show What You Know: Write and Explain A Program
     * Follow the link [here](https://youtu.be/pHaKqM9mzMc) to view Snap! WP Abstraction Video for Week 9
+   
+## Week 10
+  * ### Show What You Know: Write and Explain A Program
+    * Follow the link [here](https://youtu.be/i9MHIKiBB6g) to view Snap! WP Lists Video for Week 10
 
